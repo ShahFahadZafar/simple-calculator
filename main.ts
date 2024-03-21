@@ -43,4 +43,6 @@ if (answer.operetor === "+") {
     console.log("Error: Invalid operetor");
 };
 
+console.log("Thanks for using this simple calculator")
+
 
