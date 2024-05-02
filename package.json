@@ -1,6 +1,6 @@
 {
-  "name": "dewin88ng-simpleclicalculator001",
-  "version": "1.0.0",
+  "name": "ddr-cli-calculator",
+  "version": "2.0.0",
   "description": "A simple calculator typescript node.js project",
   "main": "main.js",
   "type": "module",
